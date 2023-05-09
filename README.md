@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Igor Murai
 
-- 📕 Atualmente bacharelando em Sistema de Informação
+- 📕 Bacharelando em Sistema de Informação
 - 🖥 Estudando Python
 - 🙍‍♂️ Pronomes: ele/dele
 
