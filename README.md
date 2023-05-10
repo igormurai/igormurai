@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F73BE0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Igor+Murai;Dev+Full+Stack;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=2500&pause=1250&color=00F758&width=430&lines=Oie%2C+eu+sou+Igor+Murai+;Bacharelando+em+Sistema+de+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 - 📕 Bacharelando em Sistema de Informação
 - 🖥 Estudando Python
