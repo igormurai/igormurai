@@ -1,13 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=2500&pause=1250&color=00F758&width=430&lines=Oie%2C+eu+sou+Igor+Murai+;Bacharelando+em+Sistema+de+Informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
- <p>
- 
-- 📕 Bacharelando em Sistema de Informação
-- 🖥 Estudando Python
-- 🙍‍♂️ Pronomes: ele/dele   
+
+
+  <p>
     
-</p
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igormurai&count_private=true&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igormurai&layout=compact&theme=dark)](https://github.com/igormurai/github-readme-stats)
+     📕 Bacharelando em Sistema de Informação 
+  
+     🖥 Estudando Python, SQL e TypeScript
+
+     🧠 Estudando inglês 
+      
+     👩🏾‍🎓 Pronome: Ele / Dele
+    
+  </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igormurai&count_private=true&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igormurai&layout=compact&theme=dark)](https://github.com/igormurai/github-readme-stats)
 
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
