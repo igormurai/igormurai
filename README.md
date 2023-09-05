@@ -13,7 +13,7 @@
     
   </p>
 
-[![Alan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alan-Vasconi&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Alan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=igormurai&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igormurai&count_private=true&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igormurai&layout=compact&theme=dark)](https://github.com/igormurai/github-readme-stats)
 
