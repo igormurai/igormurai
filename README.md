@@ -5,7 +5,7 @@
     
      📕 Bacharelando em Sistema de Informação 
   
-     🖥 Estudando Python, Git, GitHub e SQL
+     🖥 Estudando HTML5, CSS3 e JavaScript
 
      🧠 Estudando inglês 
       
