@@ -3,11 +3,11 @@
 
   <p>
     
-     📕 Bacharelando em Sistema de Informação 
+     📕 Sistema de Informação 2/8
   
      🖥 Estudando HTML5, CSS3 e JavaScript
 
-     🧠 Estudando inglês 
+     🧠 Criando e aperfeiçoando projetos 
       
      👩🏾‍🎓 Pronome: Ele / Dele
     
@@ -17,4 +17,4 @@
 
 ![igormurai GitHub stats](https://github-readme-stats.vercel.app/api?username=igormurai&count_private=true&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igormurai&layout=compact&theme=dark)](https://github.com/igormurai/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,python,markdown,instagram,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,js,html,css)](https://skillicons.dev)
