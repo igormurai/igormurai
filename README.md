@@ -9,7 +9,7 @@
 - 👩🏾‍🎓 Pronome: Ele / Dele
 
 ## Gráficos de Atividades 
-![Gráfico de Atividades no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=igormurai&bg_color=0d1117&color=BBC8C6&line=858585&point=#FC0345&area=true&hide_border=true)
+![Gráfico de Atividades no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=igormurai&bg_color=0d1117&color=BBC8C6&line=858585&point=F70056&area=true&hide_border=true)
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=igormurai&count_private=true&theme=dark&show_icons=true)
 
