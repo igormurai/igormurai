@@ -1,6 +1,6 @@
 🔴🟡🟢
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Danfo&size=35&duration=1000&pause=2000&color=F7003C&vCenter=true&multiline=true&repeat=false&width=200&height=100&lines=IGOR+MURAI;UI+DESIGN)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Danfo&size=35&duration=100&pause=100&color=F7003C&vCenter=true&multiline=true&repeat=false&width=200&height=100&lines=IGOR+MURAI;UI+DESIGN)](https://git.io/typing-svg) 
 
 [![My Skills](https://skillicons.dev/icons?i=figma,illustrator)](https://skillicons.dev)
 
