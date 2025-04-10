@@ -1,59 +1,42 @@
 <!-- Banner Personalizado -->
-<img src="https://github.com/igormurai/igormurai/blob/main/assets/banner-github.png?raw=true" width="100%" alt="Banner do perfil de Igor Murai">
+<img src="https://github.com/igormurai/igormurai/blob/main/assets/banner-github.png?raw=true" width="100%" alt="Banner do perfil de Igor Murai" />
 
-<!-- Nome com ícones e título -->
-<h3 align="left">
-  <span style="font-size: 22px; font-weight: bold; padding: 10px 20px; border: 2px solid #ccc; border-radius: 14px;">
-    IGOR MURAI | PRODUCT DESIGNER - UX/UI
-  </span>
+<!-- Nome e Título -->
+<h3 align="center">
+  <strong>Igor Murai | Product Designer - UX/UI</strong>
 </h3>
 
-<hr style="border: none; height: 1px; background-color: #ccc; opacity: 0.5; width: 100%;" />
+<hr />
 
 <!-- Objetivo Profissional -->
-<h3 align="left" style="font-size: 18px;">OBJETIVO PROFISSIONAL</h3>
-<p align="left" style="font-size: 16px; max-width: 900px;">
-  Busco estágio em Product Design, com foco em UX/UI, prototipação e usabilidade. Tenho experiência com Figma, Design Thinking e conhecimento em HTML/CSS, colaborando com equipes de design e desenvolvimento para criar produtos digitais centrados no usuário.
-</p>
+<h3 align="center">Objetivo Profissional</h3>
 
-<hr style="border: none; height: 1px; background-color: #ccc; opacity: 0.5; width: 100%;" />
+<div align="center">
+  <p align="left" style="max-width: 900px; font-size: 16px;">
+    Busco estágio em Product Design, com foco em UX/UI, prototipação e usabilidade. Tenho experiência com Figma, Design Thinking e conhecimento em HTML/CSS, colaborando com equipes de design e desenvolvimento para criar produtos digitais centrados no usuário.
+  </p>
+</div>
+
+<hr />
 
 <!-- Ferramentas -->
-<h3 align="left">FERRAMENTAS</h3>
+<h3 align="center">Ferramentas</h3>
 
-<div align="left">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="53" />
-        <br><sub><strong style="font-size: 14px;">FIGMA</strong></sub><br><sub style="font-size: 11px;">UX/UI</sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=html&theme=light" height="53" />
-        <br><sub><strong style="font-size: 14px;">HTML</strong></sub><br><sub style="font-size: 11px;">ESTRUTURA</sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=css&theme=light" height="53" />
-        <br><sub><strong style="font-size: 14px;">CSS</strong></sub><br><sub style="font-size: 11px;">ESTILO</sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=notion&theme=light" height="53" />
-        <br><sub><strong style="font-size: 14px;">NOTION</strong></sub><br><sub style="font-size: 11px;">ORGANIZAÇÃO</sub>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,html,css,notion&theme=dark&layout=horizontal" />
 </div>
-<hr style="border: none; height: 1px; background-color: #ccc; opacity: 0.5; width: 100%;" />
+
+<hr />
 
 <!-- Projeto em Destaque -->
-<h3 align="left">PROJETOS UX/UI</h3>
+<h3 align="center">PROJETOS UX/UI</h3>
 
-<a href="https://www.behance.net/gallery/221599657/Coffee-Mobile-App" target="_blank">
-  <img src="assets/thumbnail-projeto-lungo.png" alt="Capa do projeto Lungo Coffee Mobile App" height="140" />
-</a>
+<div align="center">
+  <a href="https://www.behance.net/gallery/221599657/Coffee-Mobile-App" target="_blank">
+    <img src="assets/thumbnail-projeto-lungo.png" alt="Capa do projeto Lungo Coffee Mobile App" height="140" />
+  </a>
 
-<p align="left">
-  <strong>Lungo Coffee Mobile App</strong> — UX/UI 
-</p>
-
-
+  <p>
+    <strong>Lungo Coffee Mobile App</strong>
+  </p>
+</div>
