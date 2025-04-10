@@ -4,14 +4,14 @@
 <!-- Nome com ícones e título -->
 <h3 align="left">
   <span style="font-size: 22px; font-weight: bold; padding: 10px 20px; border: 2px solid #ccc; border-radius: 14px;">
-    🔴 IGOR MURAI | PRODUCT DESIGNER - UX/UI
+    IGOR MURAI | PRODUCT DESIGNER - UX/UI
   </span>
 </h3>
 
 <hr style="border: none; height: 1px; background-color: #ccc; opacity: 0.5; width: 100%;" />
 
 <!-- Objetivo Profissional -->
-<h3 align="left" style="font-size: 18px;">🟠 OBJETIVO PROFISSIONAL</h3>
+<h3 align="left" style="font-size: 18px;">OBJETIVO PROFISSIONAL</h3>
 <p align="left" style="font-size: 16px; max-width: 900px;">
   Busco estágio em Product Design, com foco em UX/UI, prototipação e usabilidade. Tenho experiência com Figma, Design Thinking e conhecimento em HTML/CSS, colaborando com equipes de design e desenvolvimento para criar produtos digitais centrados no usuário.
 </p>
@@ -19,7 +19,7 @@
 <hr style="border: none; height: 1px; background-color: #ccc; opacity: 0.5; width: 100%;" />
 
 <!-- Ferramentas -->
-<h3 align="left">🟡 FERRAMENTAS</h3>
+<h3 align="left">FERRAMENTAS</h3>
 
 <div align="left">
   <table>
@@ -43,3 +43,17 @@
     </tr>
   </table>
 </div>
+<hr style="border: none; height: 1px; background-color: #ccc; opacity: 0.5; width: 100%;" />
+
+<!-- Projeto em Destaque -->
+<h3 align="left">PROJETOS UX/UI</h3>
+
+<a href="https://www.behance.net/gallery/221599657/Coffee-Mobile-App" target="_blank">
+  <img src="assets/thumbnail-projeto-lungo.png" alt="Capa do projeto Lungo Coffee Mobile App" height="140" />
+</a>
+
+<p align="left">
+  <strong>Lungo Coffee Mobile App</strong> — UX/UI 
+</p>
+
+
