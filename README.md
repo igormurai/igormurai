@@ -40,11 +40,9 @@
   <img src="https://komarev.com/ghpvc/?username=igormurai&style=flat&color=blue" alt="Visualizações do Perfil" />
 </p>
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Metrics
 
-<div align="center">
-  <img src="https://github.com/igormurai/igormurai/blob/generated/metrics.svg" alt="Métricas do GitHub de Igor Murai" />
-</div>
+<img src="https://raw.githubusercontent.com/igormurai/igormurai/main/github-metrics.svg" alt="GitHub Metrics" />
 
 
 
