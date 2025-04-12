@@ -53,11 +53,12 @@
 ### <p align="center">Onde Me Encontrar</p>
 <div align="center">
   <!-- Botão Behance Redondo -->
-  <a href="https://www.behance.net/igormurai">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&labelColor=1769ff" alt="Behance" class="round-icon" />
-  </a>
-  
+<p align="center">
   <a href="https://www.linkedin.com/in/igormurai/">
-  <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" width="40" height="40" />
-</a>
-</div>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.behance.net/igormurai">
+    <img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white&style=for-the-badge" alt="Behance" />
+  </a>
+</p>
