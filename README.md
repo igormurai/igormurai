@@ -13,9 +13,13 @@
 <hr/>
 
 ### <p align="center">Ferramentas</p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,notion&theme=dark&layout=horizontal" />
+  <img src="assets/botton-figma.png" alt="Figma" height="65" style="margin: 0 15px;" />
+  <img src="assets/botton-html.png" alt="HTML" height="65" style="margin: 0 15px;" />
+  <img src="assets/botton-css.png" alt="CSS" height="65" style="margin: 0 15px;" />
 </p>
+
 
 <hr/>
 
