@@ -46,7 +46,7 @@
 
 ### <p align="center">Formações e Certificações</p>
 <div align="center" style="background-color: #1e1e1e; color: #fff; padding: 16px; border-radius: 12px; line-height: 1.6;">
-  <strong>- Análise e Desenvolvimento de Sistemas</strong> – IFSP<br>
+  <strong>- Graduação em Análise e Desenvolvimento de Sistemas</strong> – IFSP<br>
   <strong>- UX Design</strong> – Coursera / Google<br>
   <strong>- Figma: Design de Interfaces do Zero ao Profissional</strong> – Udemy
 </div>
