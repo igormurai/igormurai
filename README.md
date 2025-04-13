@@ -20,23 +20,26 @@
 <hr/>
 
 ### <p align="center">Projetos UX/UI</p>
-<p align="center">
-  <!-- Projeto Lungo -->
-  <a href="https://www.behance.net/gallery/221599657/Coffee-Mobile-App" target="_blank">
-    <img src="assets/thumbnail-projeto-lungo.png" alt="Lungo Coffee Mobile App" height="130" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Projeto em andamento -->
-  <a href="#">
-    <img src="assets/thumbnail-inprogress.png" alt="Projeto em andamento" height="130" />
-  </a>
-</p>
 
 <p align="center">
-  <strong>Lungo Coffee Mobile App</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Spotify Redesign</strong>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://www.behance.net/gallery/221599657/Coffee-Mobile-App" target="_blank">
+          <img src="assets/thumbnail-projeto-lungo.png" alt="Lungo Coffee Mobile App" height="160" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="assets/thumbnail-inprogress.png" alt="Projeto em andamento" height="160" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Lungo Coffee Mobile App</strong></td>
+      <td align="center"><strong>Spotify Redesign</strong></td>
+    </tr>
+  </table>
 </p>
 
 <hr/>
@@ -62,3 +65,8 @@
     <img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white&style=for-the-badge" alt="Behance" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=igormurai" alt="GitHub Profile Views" />
+</p>
+
