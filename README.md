@@ -26,7 +26,7 @@
 ### <p align="center">Projetos UX/UI</p>
 
 <p align="center">
-  <a href="bit.ly/LungoMobileApp" target="_blank">
+  <a href="https://www.behance.net/gallery/225020517/Lungo-Coffee-Shop-Mobile-App" target="_blank">
     <img src="assets/thumbnail-projeto-lungo.png" alt="Lungo Coffee Mobile App" height="160" />
   </a>
 </p>
