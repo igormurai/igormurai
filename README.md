@@ -1,5 +1,5 @@
 <!-- Banner do Perfil -->
-<img src="https://github.com/igormurai/igormurai/blob/main/assets/banner-github.png?raw=true" width="100%" alt="Banner do perfil de Igor Murai" />
+<img src="https://github.com/igormurai/igormurai/blob/main/assets/X Wallpaper.png?raw=true" width="100%" alt="Banner do perfil de Igor Murai" />
 
 ### <p align="center">Igor Murai | Product Designer - UX/UI</p>
 
@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://www.behance.net/gallery/225020517/Lungo-Coffee-Shop-Mobile-App" target="_blank">
-    <img src="assets/thumbnail-projeto-lungo.png" alt="Lungo Coffee Mobile App" height="160" />
+    <img src="assets/Thumbnail_Lungo.png" alt="Lungo Coffee Mobile App" height="160" />
   </a>
 </p>
 <p align="center"><strong>Lungo Coffee Mobile App</strong></p>
