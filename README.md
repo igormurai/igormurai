@@ -26,27 +26,14 @@
 ### <p align="center">Projetos UX/UI</p>
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <a href="https://www.behance.net/gallery/221599657/Coffee-Mobile-App" target="_blank">
-          <img src="assets/thumbnail-projeto-lungo.png" alt="Lungo Coffee Mobile App" height="160" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="assets/thumbnail-inprogress.png" alt="Projeto em andamento" height="160" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Lungo Coffee Mobile App</strong></td>
-      <td align="center"><strong>Spotify Redesign</strong></td>
-    </tr>
-  </table>
+  <a href="bit.ly/LungoMobileApp" target="_blank">
+    <img src="assets/thumbnail-projeto-lungo.png" alt="Lungo Coffee Mobile App" height="160" />
+  </a>
 </p>
+<p align="center"><strong>Lungo Coffee Mobile App</strong></p>
 
 <hr/>
+
 
 ### <p align="center">Formações e Certificações</p>
 <div align="center" style="background-color: #1e1e1e; color: #fff; padding: 16px; border-radius: 12px; line-height: 1.6;">
